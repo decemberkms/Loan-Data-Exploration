@@ -1,0 +1,1 @@
+jupyter nbconvert Example_Project_Diamonds_Part2.ipynb --to slides --post serve --template output_toggle
